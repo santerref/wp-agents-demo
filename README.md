@@ -2,7 +2,7 @@
 
 In this demo, we’ll build a simple agent that analyzes WordPress post content and automatically assigns the most relevant **category** and **tags**.
 
-The agent connects to an LLM provider, processes post data received through WordPress hooks, and returns structured metadata ready to be applied to the post — showing how **Wp Agents** can bridge AI reasoning with real WordPress actions.
+The agent connects to an LLM provider, processes post data received through WordPress hooks, and returns structured metadata ready to be applied to the post — showing how **WP Agents** can bridge AI reasoning with real WordPress actions.
 
 Download the plugin and activate it to test. You need to install [WP Agents](https://github.com/santerref/wp-agents) plugin first.
 
