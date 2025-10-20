@@ -1,5 +1,11 @@
 # WP Agents - Demo
 
+```bash
+cd wp-content/plugins
+
+git clone git@github.com:santerref/wp-agents-demo.git wp-agents-demo
+```
+
 In this demo, we’ll build a simple agent that analyzes WordPress post content and automatically assigns the most relevant **category** and **tags**.
 
 The agent connects to an LLM provider, processes post data received through WordPress hooks, and returns structured metadata ready to be applied to the post — showing how **WP Agents** can bridge AI reasoning with real WordPress actions.
